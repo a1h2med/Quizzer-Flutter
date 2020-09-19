@@ -1,37 +1,19 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+# Quizzer 
+This project aims to make a simple quiz app, in which the user will have a certain number of questions, then answers it.
+depending on his/her answer I will show the result of the answer.
 
-
-# Quizzler ❓
-
-## Our Goal
-
-In this tutorial we will be reviewing Stateful and Stateless Widgets as well as learning about the fundamental building blocks of Object Oriented Programming (OOP) - Classes and Objects. 
-
-
-## What you will create
-
-We’re going to make a quiz app that tests your general knowledge. As one of the most popular types of apps on the app stores, you can create your own quiz for other people to enjoy!
+## App Layout
+This project consists of:  
+1- one page which has:  
+  1- question text.  
+  2- two buttons for user selection.  
+  3- marks to show the user his answer.  
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/quizzler-demo.gif)
 
-## What you will learn
-
-- Modularising your code into separate classes.
-- Dart classes and objects.
-- Using class constructors.
-- Extracting Widgets to refactor your code.
-- private and public modifiers in Dart.
-- How to use Dart lists.
-- The difference between var, const and final.
-
-## Code Snippet for Project
-
-```
-
-
-```
-
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+## Features
+    1- simple layout. 
+    2- shows the results to the user.
+    3- allows the user to restart taling the app.
+    4- I can edit it continuously and put whatever the questions I want.
+    5- works on both Android and IOS.
